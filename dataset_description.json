@@ -1,5 +1,5 @@
 {
-    "Name": "Distinct Spectral and Directional Thalamocortical Network Dynamics Define Focal Seizure Evolution",
+    "Name": "Thalamocortical ictal iEEG dataset",
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
     "Authors": [
