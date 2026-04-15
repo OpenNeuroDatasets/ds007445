@@ -1,0 +1,202 @@
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+POL RF1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL RF2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL RF3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL RF4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL RF5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL RF6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL RF7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL RF8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL RF9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL RF10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL E	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMEG2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHA12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHB1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHB2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL DC01	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL DC02	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL DC03	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL DC04	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL SpO2	MISC	µV	0.0	1000.0	Miscellaneous	2000.0	good	n/a
+POL EtCO2	MISC	µV	0.0	1000.0	Miscellaneous	2000.0	good	n/a
+POL Pulse	MISC	µV	0.0	1000.0	Miscellaneous	2000.0	good	n/a
+POL LFHB3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHB4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHB5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHB6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHB7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHB8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHB9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHB10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LFHC12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAN1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAN2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAN3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAN4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LCM1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LCM2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LCM3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LCM4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LMHD12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHE12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPHF12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAI12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LPI12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-0	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL LAMY12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+EEG Fp1-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG Fp2-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG F3-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG F4-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG C3-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG C4-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG P3-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG P4-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG O1-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG O2-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG A1-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG A2-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG F7-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG F8-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG T3-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG T4-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG T5-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG T6-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG FZ-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG CZ-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+EEG PZ-Ref	EEG	µV	0.0	1000.0	ElectroEncephaloGram	2000.0	good	n/a
+POL EKG-0	ECG	µV	0.0	1000.0	ElectroCardioGram	2000.0	good	n/a
+POL EKG-1	ECG	µV	0.0	1000.0	ElectroCardioGram	2000.0	good	n/a
+POL-3	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-4	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-5	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-6	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-7	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-8	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-9	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-10	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-11	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-12	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-13	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-14	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-15	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-16	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-17	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-18	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-19	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-20	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-21	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-22	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-23	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-24	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-25	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-26	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-27	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-28	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-29	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-30	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL-31	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL BP1	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
+POL BP2	SEEG	µV	0.0	1000.0	StereoEEG	2000.0	good	n/a
